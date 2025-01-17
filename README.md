@@ -7,11 +7,6 @@ I am a full stack software engineer with 9 years of experience turning ambitious
   <img src="https://komarev.com/ghpvc/?username=iagormoraes&label=Profile%20views&color=0e75b6&style=flat" alt="iagormoraes" />
 </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [New React Modal Component Is Out](https://medium.com/@iagor123/new-react-modal-eee6d40b991a?source=rss-2ab0a3842084------2)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/igor-moraes-a78577155" target="blank">
