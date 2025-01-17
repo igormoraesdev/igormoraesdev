@@ -1,16 +1,21 @@
-## Hi there 👋
+Hey there 👋
+I'm Igor Moraes, a seasoned Full Stack Developer with a proven track record of success in the dynamic field of information technology and services. Over the years, I have honed my skills in developing end-to-end software solutions, from ideation to deployment, and everything in between. My passion for crafting elegant, robust, and scalable applications has led me to work on a diverse range of projects and technologies, from web applications to mobile apps, and from database design to API development.
 
-<!--
-**igormoraesdev/igormoraesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+igormoraesdev
 
-Here are some ideas to get you started:
+Blogs posts
+New React Modal Component Is Out
+🔗 Connect with me
+https://www.linkedin.com/in/iagor-moraes @igormoraesdev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔠 Languages
+javascript typescript kotlin
+
+🤖 Prototyping
+figma
+
+⚙️ Frameworks
+Express.js NestJS Next JS React Native Angular Vue JS
+
+🛠️ Libraries and Tools
+React React Router Redux MUI Chakra ANDROID IOS LINUX Docker Swagger Postman
