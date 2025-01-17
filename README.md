@@ -3,10 +3,6 @@
 
 I am a full stack software engineer with 9 years of experience turning ambitious ideas into powerful digital solutions. A specialist in designing robust and scalable systems, I master modern technologies to build applications that impress with performance and innovation. My approach combines technical precision with strategic vision, delivering results that exceed expectations. Solving complex problems and tackling the impossible isn’t just my profession – it’s my trademark. When it comes to software engineering, I don’t just play the game; I redefine the rules.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=igormoraesdev&label=Profile%20views&color=0e75b6&style=flat" alt="igormoraesdev" />
-</p>
-
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/igor-moraes-a78577155" target="blank">
