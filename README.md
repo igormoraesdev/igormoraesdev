@@ -1,4 +1,4 @@
-<h2>Hey there 👋</h3>
+<h2>Hi guys 🚀🚀🚀</h3>
 
 
 I am a full stack software engineer with 9 years of experience turning ambitious ideas into powerful digital solutions. A specialist in designing robust and scalable systems, I master modern technologies to build applications that impress with performance and innovation. My approach combines technical precision with strategic vision, delivering results that exceed expectations. Solving complex problems and tackling the impossible isn’t just my profession – it’s my trademark. When it comes to software engineering, I don’t just play the game; I redefine the rules.
